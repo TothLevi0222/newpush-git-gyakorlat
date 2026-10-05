@@ -1,6 +1,6 @@
 # Rólam
 
-Szia! Tóth Levente vagyok, egyetemi hallgató. A NewPush Trainer gyorsítóprogramjában az MI-eszközök,
+Szia! Egyetemi hallgató vagyok (GitHub: TothLevi0222). A NewPush Trainer gyorsítóprogramjában az MI-eszközök,
 az automatizálás (n8n) és a Git/GitHub-alapú együttműködés gyakorlati használatát tanulom.
 
 ## Mivel foglalkozom
