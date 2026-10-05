@@ -1,2 +1,5 @@
 # newpush-git-gyakorlat
-NewPush HUO2 Git/GitHub gyakorló tárhely
+
+Állapot: kezdő verzió.
+
+Ez a tárhely a NewPush Trainer HUO2 moduljának (Git, GitHub és MI-alapú együttműködés) gyakorló feladataihoz készült.
